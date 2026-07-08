@@ -11,7 +11,7 @@
 ✅ Ask me about Web development
 ✅ Pronouns: He/Him
 
-About Me
+<h1>About Me</h1>
 
 I’m a passionate Full-Stack Web Developer specializing in the MERN stack.
 
